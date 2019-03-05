@@ -42,44 +42,45 @@ If OpenWindow(#WINDOW_1, 0, 0, 420, 320, "MARK 104", #WINDOWS_FLAGS)
           Case #BUTTON_GADGET_1
             ;DisableGadget(#BUTTON_GADGET_1,1)
             ;For x4.i = 1 To 4
-              SetGadgetState(#LISTVIEW_1,Random(49)) ;start randomly 
-              ;GetGadgetState(#LISTVIEW_1)
+            SetGadgetState(#LISTVIEW_1,Random(49)) ;start randomly 
+            ;GetGadgetState(#LISTVIEW_1)
+            Delay (1000)
+            
+            repeatUntilNum = Random(7)              
+            For x.b = 0 To repeatUntilNum
+              SetGadgetState(#LISTVIEW_1,GetGadgetState(#LISTVIEW_1) + 1)
               Delay (1000)
-              
-              repeatUntilNum = Random(7)              
-              For x.b = 0 To repeatUntilNum
-                SetGadgetState(#LISTVIEW_1,GetGadgetState(#LISTVIEW_1) + 1)
-                Delay (1000)
-              Next 
-              
-;               Repeat                
-;                 If GetGadgetState(#LISTVIEW_1) = 0
-;                   Break
-;                 EndIf
-;                 
-;                 SetGadgetState(#LISTVIEW_1,GetGadgetState(#LISTVIEW_1) + 1 )
-;                 Delay (1000)                
-;                 
-;                 repeatUntilNum = Random(3) ;whatever number is this  
-;                 
-;                 If GetGadgetState(#LISTVIEW_1) = 49
-;                   Break
-;                 EndIf
-;                                 
-;               Until repeatUntilNum = 3 ;Or GetGadgetState(#LISTVIEW_1) = 49
-              
-              selectedRand = GetGadgetState(#LISTVIEW_1)
-              
-              For x3.i = 1 To 3 
-                SetGadgetState(#LISTVIEW_1,selectedRand)
-                Delay (500)
-                SetGadgetState(#LISTVIEW_1,-1)
-                Delay (500)
-                SetGadgetState(#LISTVIEW_1,selectedRand)
-              Next
-              Delay (1000)
-              
-              ;Debug Str(x4) + ": " + Str(selectedRand) 
+            Next 
+            
+            ;               Repeat                
+            ;                 If GetGadgetState(#LISTVIEW_1) = 0
+            ;                   Break
+            ;                 EndIf
+            ;                 
+            ;                 SetGadgetState(#LISTVIEW_1,GetGadgetState(#LISTVIEW_1) + 1 )
+            ;                 Delay (1000)                
+            ;                 
+            ;                 repeatUntilNum = Random(3) ;whatever number is this  
+            ;                 
+            ;                 If GetGadgetState(#LISTVIEW_1) = 49
+            ;                   Break
+            ;                 EndIf
+            ;                                 
+            ;               Until repeatUntilNum = 3 ;Or GetGadgetState(#LISTVIEW_1) = 49
+            
+            Delay (1000)
+            selectedRand = GetGadgetState(#LISTVIEW_1)
+            
+            For x3.i = 1 To 3 
+              SetGadgetState(#LISTVIEW_1,selectedRand)
+              Delay (500)
+              SetGadgetState(#LISTVIEW_1,-1)
+              Delay (500)
+              SetGadgetState(#LISTVIEW_1,selectedRand)
+            Next
+            ;Delay (1000)
+            
+            ;Debug Str(x4) + ": " + Str(selectedRand) 
             ;Next x4        
             
             ;MessageRequester("SELECTED: ", GetGadgetItemText(#LISTVIEW_1,GetGadgetState(#LISTVIEW_1))) 
