@@ -1,3 +1,6 @@
+;arrays are great way to store data
+;C++ and Java also have great arrays on their own
+
 Dim classNumberBoys.s(25)
 Dim classNumberGirls.s(25)
 Dim mixedArray.s(49)
