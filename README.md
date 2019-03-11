@@ -2,9 +2,9 @@
 For educational purposes only
 
 To compile/run, just use PureBasic IDE,
-that's very fast and simple for simple programs like this.
+that's very fast and simple for simple programs.
 
 These are simple softwares to appreciate more 
-the programming skills
+the your programming skills.
 
  
