@@ -1,3 +1,5 @@
+;some comments below are for debugging purposes
+
 XIncludeFile "LEARNERS_ARRAY.pbi"
 
 Enumeration
