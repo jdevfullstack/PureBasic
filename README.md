@@ -1,9 +1,9 @@
 # PureBasic
-For educational purposes only
+For educational/demonstration purposes only.
 
 To compile/run, just use PureBasic IDE,
-that's very fast and simple for simple programs.
+that's very fast and simple for simple programs like these.
 
-These are simple softwares to appreciate your programming skills.
+
 
  
