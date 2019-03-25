@@ -27,7 +27,8 @@ If OpenWindow(#WINDOW_1, 0, 0, 420, 120, "RANDOM SELECTION GIRLS", #WINDOWS_FLAG
   
   ;this will be for the next version of this program 
   ;TextGadget(#TEXT_GADGET_2,5,350,500,30,"SELECTED LEARNERS: ")
-  ButtonGadget(#BUTTON_GADGET_1,230,0,85,40,"RUN!")
+  
+  ButtonGadget(#BUTTON_GADGET_1,230,0,85,40,"RUN!")  
   ButtonGadget(#BUTTON_GADGET_2,320,0,85,40,"CLEAR")
   ListViewGadget(#LISTVIEW_1, 10, 40, 400, 68) 
   
