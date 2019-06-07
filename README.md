@@ -15,7 +15,7 @@ To compile/run, just use the PureBasic IDE, that's very fast and simple for simp
 ## Contributing
 
 1. Fork it!
-2. Then, made changes, and create a pull request. I'm happy you contribute to my repo!
+2. Then, made changes and create a pull request. I'm happy you contribute to my repo!
 
 ## License
 
