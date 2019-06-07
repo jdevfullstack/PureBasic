@@ -19,4 +19,4 @@ To compile/run, just use the PureBasic IDE, that's very fast and simple for simp
 
 ## License
 
-MIT- The permissive license
+MIT- the permissive license
