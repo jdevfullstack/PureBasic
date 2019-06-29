@@ -26,7 +26,7 @@ from C with objects and classes. But C remained just like that.
 My point here is, we want to retain the identity of different
 programming languages.
 
-So, in the end, PureBasic is one of the best BASIC dialect.
+So, in the end, PureBasic is one of the best BASIC dialects.
 
 ## Compiling
 To compile/run, just use the PureBasic IDE, that's very fast 
