@@ -21,7 +21,7 @@ And that is great. Other BASIC dialects added new functionalities,
 including those that were not meant 
 to be for a BASIC language.
 
-The reason why I am using this is to feel the BASIC language then.
+The reason why I am using this is to feel the BASIC language back then.
 And that is great, because when you want to do some
 object-oriented programming, you do it in other languages, like Java.
 I stay with the simplicity of PureBasic when I want to deal with
