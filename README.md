@@ -19,7 +19,7 @@ add the concept of objects, as in objects used in
 object-oriented programming.
 And that is great. Other BASIC dialects added new functionalities,
 including those that were not meant 
-to be for a BASIC language.
+to be for the BASIC language.
 
 The reason why I am using this is to feel the BASIC language back then.
 And that is great, because when you want to do some
@@ -67,7 +67,7 @@ apps for business solutions.
 > - PureBasic might be very famous in the open source projects
 if this was an open source too.
 >
-> - PureBasic might be more than VisualBASIC if not because
+> - PureBasic might be more than Visual Basic if not because
 of Microsoft. We all know how powerful Microsoft is. 
 It toppled many business competitors.
 >
