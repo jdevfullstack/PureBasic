@@ -86,11 +86,11 @@ just use the PureBasic IDE. In just few clicks,
 you are good to go.
 
 ## Contributing
-1. Fork it!
+1. Fork the repo!
 2. Then, made changes and create a pull request. 
-I'm happy you contribute to my repo!
-3. In case you don't want to fork this repo,
-please star this. Thanks! 
+I'm happy you contribute!
+3. In case you don't want to fork this,
+please star this if you find this informative. Thanks! 
 
 ## License
 MIT - the permissive license
