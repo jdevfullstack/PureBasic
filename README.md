@@ -89,8 +89,7 @@ you are good to go.
 1. Fork the repo!
 2. Then, made changes and create a pull request. 
 I'm happy you contribute!
-3. In case you don't want to fork this,
-please star this if you find this informative. Thanks! 
+3. If not fork, just please star this. Thanks! 
 
 ## License
 MIT - the permissive license
