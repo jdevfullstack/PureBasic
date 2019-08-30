@@ -1,6 +1,6 @@
 # PureBasic Projects
 
-[picture](picture.png)
+![picture](picture.png)
 
 When you are at GitHub, every subdirectory of this repo 
 is a separate sample project that you can use 
