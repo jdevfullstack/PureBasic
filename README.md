@@ -42,42 +42,42 @@ the years, somewhat an old-fashioned yet still a relevant one.
 So, in the end, PureBasic is one of the best BASIC dialects.
 
 ## PureBasic Highlights
-> > PureBasic is a structured programming language. PureBasic retained
+> - PureBasic is a structured programming language. PureBasic retained
 `Goto` but as a structured programming language, instead of 
 focusing in `Goto`, we can use functions through procedures
 instead, although as a
 BASIC dialect, it does not have the `main` function.
 >
-> > PureBasic can call user-defined functions through an include
+> - PureBasic can call user-defined functions through an include
 command, that is `XIncludeFile` (and `IncludeFile`). This is a very 
 important one because in the past,
 the tendency was to put everything in just one source file.    
 >
-> > PureBasic uses single `=` sign for both assignment and comparison
+> - PureBasic uses single `=` sign for both assignment and comparison
 operators.
 >
-> > PureBasic has a very good GUI components. This can be used when, say,
+> - PureBasic has a very good GUI components. This can be used when, say,
 one programmer in C created purely a console app. In this case, all
 you need to do is to interface using the `stdout` of that console app
 and your GUI program can communicate well with the console app.
 >
-> > PureBasic simplified the process of creating executable files
+> - PureBasic simplified the process of creating executable files
 and the IDE is very good.
 >
-> > PureBasic is for hobbyist and still can be used for creating
+> - PureBasic is for hobbyist and still can be used for creating
 apps for business solutions.
 >
-> > PureBasic might be very famous in the open source projects
+> - PureBasic might be very famous in the open source projects
 if this was an open source too.
 >
-> > PureBasic might be more than Visual Basic if not because
+> - PureBasic might be more than Visual Basic if not because
 of Microsoft. We all know how powerful Microsoft is. 
 It toppled many business competitors.
 >
-> > PureBasic is a cross-platform programming language but
+> - PureBasic is a cross-platform programming language but
 works well in Windows OS. 
 >
-> > PureBasic added the user-defined data type `structure`.
+> - PureBasic added the user-defined data type `structure`.
 This is a very useful data type to manage and organize data.
 
 ## Compiling
