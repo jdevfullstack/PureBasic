@@ -90,6 +90,19 @@ works well in Windows OS.
 > - PureBasic added the user-defined data type `structure`.
 This is a very useful data type to manage and organize data.
 
+## PureBasic Subdirectories
+And if you want to read the details of each subdirectory:
+
+[![File Explorer Project](screenshots/picture.png)](FileExplorer/)
+
+***
+
+[![Random Generator](screenshots/picture2.png)](RandomData/)
+
+***
+
+[![Scrabble Game Project](screenshots/picture3.png)](miniScrabble/)
+
 ## Compiling
 To compile/run each project in a subdirectory, 
 just use the PureBasic IDE. In just few clicks,
