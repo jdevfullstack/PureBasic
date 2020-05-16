@@ -10,7 +10,7 @@
 
 # PureBasic Projects
 
-![picture](resources/picture1.png)
+![picture](resources/picture.png)
 
 When you are at GitHub, every subdirectory of this repo 
 is a separate sample project that you can use 
