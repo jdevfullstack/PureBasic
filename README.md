@@ -10,7 +10,7 @@
 
 # PureBasic Projects
 
-![picture](picture.png)
+![picture](resources/picture.png)
 
 When you are at GitHub, every subdirectory of this repo 
 is a separate sample project that you can use 
@@ -93,15 +93,15 @@ This is a very useful data type to manage and organize data.
 ## PureBasic Subdirectories
 And if you want to read the details of each subdirectory:
 
-[![File Explorer Project](screenshots/picture.png)](FileExplorer/)
+[![File Explorer Project](resources/picture1.png)](https://xdvrx1.github.io/PureBasic-FileExplorer/)
 
 ***
 
-[![Random Generator](screenshots/picture2.png)](RandomData/)
+[![Randomizer](resources/picture2.png)](https://xdvrx1.github.io/PureBasic-Randomizer/)
 
 ***
 
-[![Scrabble Game Project](screenshots/picture3.png)](miniScrabble/)
+[![Scrabble Game Project](resources/picture3.png)](https://xdvrx1.github.io/PureBasic-Scrabble/)
 
 ## Compiling
 To compile/run each project in a subdirectory, 
