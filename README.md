@@ -103,6 +103,18 @@ And if you want to read the details of each subdirectory:
 
 [![Scrabble Game Project](resources/picture3.png)](https://xdvrx1.github.io/PureBasic-Scrabble/)
 
+***
+
+[![Password Generator](resources/picture4.png)](https://xdvrx1.github.io/PureBasic-Password-Generator/)
+
+***
+
+[![Password Hunter](resources/picture5.png)](https://xdvrx1.github.io/PureBasic-Password-Hunter/)
+
+***
+
+[![2D Game](resources/picture6.png)](https://xdvrx1.github.io/PureBasic-2D-Game/)
+
 ## Compiling
 To compile/run each project in a subdirectory, 
 just use the PureBasic IDE. In just few clicks,
