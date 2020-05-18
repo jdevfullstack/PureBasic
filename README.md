@@ -116,14 +116,12 @@ And if you want to read the details of each subdirectory:
 [![2D Game](resources/picture6.png)](https://xdvrx1.github.io/PureBasic-2D-Game/)
 
 ## Compiling
-To compile/run each project in a subdirectory, 
-just use the PureBasic IDE. In just few clicks,
-you are good to go.
+Compiling the project is so easy in the PureBasic IDE.
+Just click `Compile/Run` or press F5.
 
 ## Contributing
 1. Fork the repo!
-2. Then, made changes and create a pull request. 
-I'm happy you contribute!
+2. Then, made changes and create a pull request.
 3. If not fork, just please star this. Thanks! 
 
 ## License
