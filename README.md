@@ -17,7 +17,7 @@ is a separate sample project that you can use
 if you have a similar project.
 
 But when you are viewing this
-right now as web page in `mongalvarez.github.io` domain,
+right now as web page in `xdvrx1.github.io` domain,
 you need to click `View on GitHub` to download the
 source codes.
 
@@ -89,7 +89,7 @@ works well in Windows OS.
 > - PureBasic added the user-defined data type `structure`.
 This is a very useful data type to manage and organize data.
 
-## PureBasic Subdirectories
+## Subdirectories
 And if you want to read the details of each subdirectory:
 
 [![File Explorer Project](resources/picture1.png)](https://xdvrx1.github.io/PureBasic-FileExplorer/)
