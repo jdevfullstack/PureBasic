@@ -94,6 +94,10 @@ And if you want to read the details of each subdirectory:
 
 [![File Explorer Project](resources/picture1.png)](https://xdvrx1.github.io/PureBasic-FileExplorer/)
 
+in GitHub,
+
+<https://github.com/xdvrx1/PureBasic-FileExplorer/>
+
 ***
 
 [![Randomizer](resources/picture2.png)](https://xdvrx1.github.io/PureBasic-Randomizer/)
