@@ -110,6 +110,10 @@ in GitHub,
 
 [![Scrabble Game Project](resources/picture3.png)](https://xdvrx1.github.io/PureBasic-Scrabble/)
 
+in GitHub, 
+
+<https://github.com/xdvrx1/PureBasic-Scrabble/
+
 ***
 
 [![Password Generator](resources/picture4.png)](https://xdvrx1.github.io/PureBasic-Password-Generator/)
