@@ -102,21 +102,41 @@ in GitHub,
 
 [![Randomizer](resources/picture2.png)](https://xdvrx1.github.io/PureBasic-Randomizer/)
 
+in GitHub,
+
+<https://github.com/xdvrx1/PureBasic-Randomizer/>
+
 ***
 
 [![Scrabble Game Project](resources/picture3.png)](https://xdvrx1.github.io/PureBasic-Scrabble/)
+
+in GitHub, 
+
+<https://github.com/xdvrx1/PureBasic-Scrabble/>
 
 ***
 
 [![Password Generator](resources/picture4.png)](https://xdvrx1.github.io/PureBasic-Password-Generator/)
 
+in GitHub,
+
+<https://github.com/xdvrx1/PureBasic-Password-Generator/>
+
 ***
 
 [![Password Hunter](resources/picture5.png)](https://xdvrx1.github.io/PureBasic-Password-Hunter/)
 
+in GitHub,
+
+<https://github.com/xdvrx1/PureBasic-Password-Hunter/>
+
 ***
 
 [![2D Game](resources/picture6.png)](https://xdvrx1.github.io/PureBasic-2D-Game/)
+
+in GitHub,
+
+<https://github.com/xdvrx1/PureBasic-2D-Game/>
 
 ## Compiling
 Compiling the project is so easy in the PureBasic IDE.
