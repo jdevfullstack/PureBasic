@@ -112,11 +112,15 @@ in GitHub,
 
 in GitHub, 
 
-<https://github.com/xdvrx1/PureBasic-Scrabble/
+<https://github.com/xdvrx1/PureBasic-Scrabble/>
 
 ***
 
 [![Password Generator](resources/picture4.png)](https://xdvrx1.github.io/PureBasic-Password-Generator/)
+
+in GitHub,
+
+<https://github.com/xdvrx1/PureBasic-Password-Generator/>
 
 ***
 
