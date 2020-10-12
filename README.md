@@ -134,6 +134,10 @@ in GitHub,
 
 [![2D Game](resources/picture6.png)](https://xdvrx1.github.io/PureBasic-2D-Game/)
 
+in GitHub,
+
+<https://github.com/xdvrx1/PureBasic-2D-Game/>
+
 ## Compiling
 Compiling the project is so easy in the PureBasic IDE.
 Just click `Compile/Run` or press F5.
