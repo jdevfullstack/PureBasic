@@ -102,6 +102,10 @@ in GitHub,
 
 [![Randomizer](resources/picture2.png)](https://xdvrx1.github.io/PureBasic-Randomizer/)
 
+in GitHub,
+
+<https://github.com/xdvrx1/PureBasic-Randomizer/>
+
 ***
 
 [![Scrabble Game Project](resources/picture3.png)](https://xdvrx1.github.io/PureBasic-Scrabble/)
