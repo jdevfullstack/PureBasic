@@ -126,6 +126,10 @@ in GitHub,
 
 [![Password Hunter](resources/picture5.png)](https://xdvrx1.github.io/PureBasic-Password-Hunter/)
 
+in GitHub,
+
+<https://github.com/xdvrx1/PureBasic-Password-Hunter/>
+
 ***
 
 [![2D Game](resources/picture6.png)](https://xdvrx1.github.io/PureBasic-2D-Game/)
