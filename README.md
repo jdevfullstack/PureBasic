@@ -97,7 +97,8 @@ beginners will simply start to learn a language which has a good
 standing in web development, much like PHP and JavaScript.
 
 But still, PureBasic is a very good language when you just want to
-create native apps and PureBasic has a very good working environment.
+create native apps and PureBasic has a very good working environment
+and libraries.
 
 ## Subdirectories
 And if you want to read the details of each subdirectory:
