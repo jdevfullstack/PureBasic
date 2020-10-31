@@ -89,6 +89,16 @@ works well in Windows OS.
 > - PureBasic added the user-defined data type `structure`.
 This is a very useful data type to manage and organize data.
 
+## PureBasic Losing The Track
+You might be wondering, PureBasic simply lost the track of software
+development and that's quite true: more and more software development is 
+becoming web-oriented, at least to some extent. There is the tendency,
+beginners will simply start to learn a language which has a good
+standing in web development, much like PHP and JavaScript.
+
+But still, PureBasic is a very good language when you just want to
+create native apps and PureBasic has a very good working environment.
+
 ## Subdirectories
 And if you want to read the details of each subdirectory:
 
