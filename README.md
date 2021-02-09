@@ -11,8 +11,15 @@
 # PureBasic Projects 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2FPureBasic&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![picture](resources/picture.png)
+## Subdirectories
+1. [File Explorer Project](https://xdvrx1.github.io/PureBasic-FileExplorer/)
+2. [Randomizer](https://xdvrx1.github.io/PureBasic-Randomizer/)
+3. [Scrabble Game Project](https://xdvrx1.github.io/PureBasic-Scrabble/)
+4. [Password Generator](https://xdvrx1.github.io/PureBasic-Password-Generator/)
+5. [Password Hunter](https://xdvrx1.github.io/PureBasic-Password-Hunter/)
+6. [2D Game](https://xdvrx1.github.io/PureBasic-2D-Game/)
 
+## Intro
 When you are at GitHub, every subdirectory of this repo 
 is a separate sample project that you can use 
 if you have a similar project.
@@ -50,14 +57,6 @@ programming languages staying the same through
 the years, somewhat an old-fashioned yet still a relevant one.
 
 So, in the end, PureBasic is one of the best BASIC dialects.
-
-## Subdirectories
-1. [File Explorer Project](https://xdvrx1.github.io/PureBasic-FileExplorer/)
-2. [Randomizer](https://xdvrx1.github.io/PureBasic-Randomizer/)
-3. [Scrabble Game Project](https://xdvrx1.github.io/PureBasic-Scrabble/)
-4. [Password Generator](https://xdvrx1.github.io/PureBasic-Password-Generator/)
-5. [Password Hunter](https://xdvrx1.github.io/PureBasic-Password-Hunter/)
-6. [2D Game](https://xdvrx1.github.io/PureBasic-2D-Game/)
 
 ## PureBasic Highlights
 > - PureBasic is a structured programming language. PureBasic retained
@@ -108,8 +107,6 @@ standing in web development, much like PHP and JavaScript.
 But still, PureBasic is a very good language when you just want to
 create native apps and PureBasic has a very good working environment
 and libraries.
-
-
 
 ## Compiling
 Compiling the project is so easy in the PureBasic IDE.
