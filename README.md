@@ -51,6 +51,14 @@ the years, somewhat an old-fashioned yet still a relevant one.
 
 So, in the end, PureBasic is one of the best BASIC dialects.
 
+## Subdirectories
+1. [File Explorer Project](https://xdvrx1.github.io/PureBasic-FileExplorer/)
+2. [Randomizer](https://xdvrx1.github.io/PureBasic-Randomizer/)
+3. [Scrabble Game Project](https://xdvrx1.github.io/PureBasic-Scrabble/)
+4. [Password Generator](https://xdvrx1.github.io/PureBasic-Password-Generator/)
+5. [Password Hunter](https://xdvrx1.github.io/PureBasic-Password-Hunter/)
+6. [2D Game](https://xdvrx1.github.io/PureBasic-2D-Game/)
+
 ## PureBasic Highlights
 > - PureBasic is a structured programming language. PureBasic retained
 `Goto` but as a structured programming language, instead of 
@@ -101,54 +109,7 @@ But still, PureBasic is a very good language when you just want to
 create native apps and PureBasic has a very good working environment
 and libraries.
 
-## Subdirectories
-And if you want to read the details of each subdirectory:
 
-[![File Explorer Project](resources/picture1.png)](https://xdvrx1.github.io/PureBasic-FileExplorer/)
-
-in GitHub,
-
-<https://github.com/xdvrx1/PureBasic-FileExplorer/>
-
-***
-
-[![Randomizer](resources/picture2.png)](https://xdvrx1.github.io/PureBasic-Randomizer/)
-
-in GitHub,
-
-<https://github.com/xdvrx1/PureBasic-Randomizer/>
-
-***
-
-[![Scrabble Game Project](resources/picture3.png)](https://xdvrx1.github.io/PureBasic-Scrabble/)
-
-in GitHub, 
-
-<https://github.com/xdvrx1/PureBasic-Scrabble/>
-
-***
-
-[![Password Generator](resources/picture4.png)](https://xdvrx1.github.io/PureBasic-Password-Generator/)
-
-in GitHub,
-
-<https://github.com/xdvrx1/PureBasic-Password-Generator/>
-
-***
-
-[![Password Hunter](resources/picture5.png)](https://xdvrx1.github.io/PureBasic-Password-Hunter/)
-
-in GitHub,
-
-<https://github.com/xdvrx1/PureBasic-Password-Hunter/>
-
-***
-
-[![2D Game](resources/picture6.png)](https://xdvrx1.github.io/PureBasic-2D-Game/)
-
-in GitHub,
-
-<https://github.com/xdvrx1/PureBasic-2D-Game/>
 
 ## Compiling
 Compiling the project is so easy in the PureBasic IDE.
