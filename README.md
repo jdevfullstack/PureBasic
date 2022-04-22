@@ -15,12 +15,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2FPureBasic&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Subdirectories
-1. [File Explorer Project](https://xdvrx1.github.io/PureBasic-FileExplorer/)
-2. [Randomizer](https://xdvrx1.github.io/PureBasic-Randomizer/)
-3. [Scrabble Game Project](https://xdvrx1.github.io/PureBasic-Scrabble/)
-4. [Password Generator](https://xdvrx1.github.io/PureBasic-Password-Generator/)
-5. [Password Hunter](https://xdvrx1.github.io/PureBasic-Password-Hunter/)
-6. [2D Game](https://xdvrx1.github.io/PureBasic-2D-Game/)
+1. [File Explorer Project](https://jdevstatic.github.io/PureBasic-FileExplorer/)
+2. [Randomizer](https://jdevstatic.github.io/PureBasic-Randomizer/)
+3. [Scrabble Game Project](https://jdevstatic.github.io/PureBasic-Scrabble/)
+4. [Password Generator](https://jdevstatic.github.io/PureBasic-Password-Generator/)
+5. [Password Hunter](https://jdevstatic.github.io/PureBasic-Password-Hunter/)
+6. [2D Game](https://jdevstatic.github.io/PureBasic-2D-Game/)
 
 # Intro
 When you are at GitHub, every subdirectory of this repo 
@@ -28,7 +28,7 @@ is a separate sample project that you can use
 if you have a similar project.
 
 But when you are viewing this
-right now as web page in `xdvrx1.github.io` domain,
+right now as web page in `jdevstatic.github.io` domain,
 you need to click `View on GitHub` to download the
 source codes.
 
