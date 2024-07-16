@@ -27,17 +27,6 @@ use outdated libraries or patterns and is not intended for production use in its
 6. [PureBasic 2D Game](https://github.com/jdevfullstack/PureBasic-2D-Game)
 
 # Intro
-When you are at GitHub, every subdirectory of this repo 
-is a separate sample project that you can use 
-if you have a similar project.
-
-But when you are viewing this
-right now as web page in `jdevfullstack.github.io` domain,
-you need to click `View on GitHub` to download the
-source codes.
-
-Thanks!
-
 I truly believe learning PureBasic is worth it 
 more than other BASIC dialects.
 
