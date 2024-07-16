@@ -18,13 +18,13 @@ abilities or the latest best practices in the field.
 Feel free to explore the project and its code. However, be aware that it might 
 use outdated libraries or patterns and is not intended for production use in its current state.
 
-## Subdirectories
-1. [File Explorer Project](https://jdevstatic.github.io/PureBasic-FileExplorer/)
-2. [Randomizer](https://jdevstatic.github.io/PureBasic-Randomizer/)
-3. [Scrabble Game Project](https://jdevstatic.github.io/PureBasic-Scrabble/)
-4. [Password Generator](https://jdevstatic.github.io/PureBasic-Password-Generator/)
-5. [Password Hunter](https://jdevstatic.github.io/PureBasic-Password-Hunter/)
-6. [2D Game](https://jdevstatic.github.io/PureBasic-2D-Game/)
+## Links
+1. [PureBasic File Explorer](https://github.com/jdevfullstack/PureBasic-FileExplorer)
+2. [PureBasic Randomizer](https://github.com/jdevfullstack-projects/PureBasic-Randomizer)
+3. [PureBasic Scrabble Game](https://github.com/jdevfullstack/PureBasic-Scrabble)
+4. [PureBasic Password Generator](https://github.com/jdevfullstack-projects/PureBasic-Password-Generator)
+5. [PureBasic Password Hunter](https://github.com/jdevfullstack/PureBasic-Password-Hunter)
+6. [PureBasic 2D Game](https://github.com/jdevfullstack/PureBasic-2D-Game)
 
 # Intro
 When you are at GitHub, every subdirectory of this repo 
@@ -32,7 +32,7 @@ is a separate sample project that you can use
 if you have a similar project.
 
 But when you are viewing this
-right now as web page in `jdevstatic.github.io` domain,
+right now as web page in `jdevfullstack.github.io` domain,
 you need to click `View on GitHub` to download the
 source codes.
 
