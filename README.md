@@ -7,7 +7,7 @@ Before PureBasic, I first learned Excel formulas, which really captured my inter
 The very first time I encountered Excel was in college,
 and it was the IF function presented by the professor that really caught my attention.
 
-## Showcase Disclaimer
+## Disclaimer
 Please note that this project is presented as a showcase of my work during a 
 specific period. It represents a snapshot of my skills and accomplishments 
 at that time. As such, this project is no longer actively maintained or updated. 
@@ -25,7 +25,7 @@ use outdated libraries or patterns and is not intended for production use in its
 5. [PureBasic Password Hunter](https://github.com/jdevfullstack/PureBasic-Password-Hunter)
 6. [PureBasic 2D Game](https://github.com/jdevfullstack/PureBasic-2D-Game)
 
-# Intro
+# Intro To PureBasic
 I truly believe learning PureBasic is worth it 
 more than other BASIC dialects.
 
