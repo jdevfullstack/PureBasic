@@ -13,6 +13,11 @@ abilities or the latest best practices in the field.
 Feel free to explore the project and its code. However, be aware that it might 
 use outdated libraries or patterns and is not intended for production use in its current state.
 
+PureBasic was my first ever programming language, so it reminds me of the good old days. 
+Before PureBasic, I first learned Excel formulas, which really captured my interest. 
+The very first time I encountered Excel was in college,
+and it was the IF function presented by the professor that really caught my attention.
+
 ## Subdirectories
 1. [File Explorer Project](https://jdevstatic.github.io/PureBasic-FileExplorer/)
 2. [Randomizer](https://jdevstatic.github.io/PureBasic-Randomizer/)
