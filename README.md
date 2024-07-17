@@ -103,9 +103,5 @@ But still, PureBasic is a very good language when you just want to
 create native apps and PureBasic has a very good working environment
 and libraries.
 
-## Compiling
-Compiling the project is so easy in the PureBasic IDE.
-Just click `Compile/Run` or press F5.
-
 ## License
 MIT - the permissive license
