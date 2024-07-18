@@ -8,14 +8,11 @@ The very first time I encountered Excel was in college,
 and it was the IF function presented by the professor that really caught my attention.
 
 ## Disclaimer
-Please note that this project is presented as a showcase of my work during a 
-specific period. It represents a snapshot of my skills and accomplishments 
-at that time. As such, this project is no longer actively maintained or updated. 
-It is kept public for demonstration purposes and may not reflect my current 
+Please note that these projects are presented as a showcase of my work during a 
+specific period. They represent a snapshot of my skills and accomplishments 
+at that time. As such, these projects are no longer actively maintained or updated. 
+They are kept public for demonstration purposes and may not reflect my current 
 abilities or the latest best practices in the field.
-
-Feel free to explore the project and its code. However, be aware that it might 
-use outdated libraries or patterns and is not intended for production use in its current state.
 
 ## Links
 1. [PureBasic File Explorer](https://github.com/jdevfullstack/PureBasic-FileExplorer)
